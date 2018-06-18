@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: QueueDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Jennifer
+Implementation-Vendor-Id: com.amex
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/QueueDemo
+Created-By: Maven Integration for Eclipse
+
